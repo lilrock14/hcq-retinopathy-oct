@@ -1,0 +1,17 @@
+# Patient data — NEVER commit
+Plaquenil/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Allow plot outputs only
+!plot_*.png
+
+# Colab and Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
