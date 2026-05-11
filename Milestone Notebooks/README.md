@@ -1,1 +1,3 @@
-# Milestone Notebooks\n\nThis folder contains each milestone's Jupyter notebook.
+# Milestone Notebooks
+
+This folder contains each milestone's Jupyter notebook.
